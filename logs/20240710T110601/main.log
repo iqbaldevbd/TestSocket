@@ -1,0 +1,14 @@
+2024-07-10 11:06:01.688 [info] update#setState idle
+2024-07-10 11:06:31.694 [info] update#setState checking for updates
+2024-07-10 11:06:31.830 [info] update#setState idle
+2024-07-10 12:28:56.587 [info] update#setState checking for updates
+2024-07-10 12:28:57.186 [info] update#setState idle
+2024-07-10 13:28:57.631 [info] update#setState checking for updates
+2024-07-10 13:28:58.606 [info] update#setState idle
+2024-07-10 15:56:54.423 [info] update#setState checking for updates
+2024-07-10 15:56:54.938 [info] update#setState idle
+2024-07-10 17:05:48.936 [info] update#setState checking for updates
+2024-07-10 17:05:49.745 [info] update#setState idle
+2024-07-10 18:05:49.276 [info] update#setState checking for updates
+2024-07-10 18:05:49.591 [info] update#setState idle
+2024-07-10 18:49:53.838 [info] Extension host with pid 14580 exited with code: 0, signal: unknown.
